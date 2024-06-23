@@ -179,6 +179,15 @@ body {
         opacity: 1;
     }
 
+    .nft-card__heading:active {
+        color: var(--cyan);
+    }
+
+    .nft-card__creator:active {
+        color: var(--cyan);
+    }
+
+
 }
 
 @media only screen and (max-width: 767px) {
